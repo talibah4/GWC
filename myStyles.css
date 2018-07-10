@@ -1,0 +1,27 @@
+/*Webpage stylesheet*/
+
+h1, h3{
+  color: #99ccff;
+  /*font-size: 12px;*/
+  font-family: 'Gaegu', cursive, serif;
+}
+#Fun{
+  color: blue;
+}
+.special{
+  color:green;
+}
+#daisy{
+  position: relative;
+  left: 300px;
+}
+ul{
+  list-style-type: none;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+a{
+  text-decoration: none;
+}
